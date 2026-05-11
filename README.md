@@ -68,4 +68,4 @@ This project started as a Bash script and is being migrated to Python for better
 
 ## License
 
-No license file has been added yet.
+This project is licensed under the GNU General Public License v3.0.
